@@ -1,0 +1,10 @@
+std=[
+    {'name':'tejas','roll_no':45,'marks':99},
+    {'name':'rahul','roll_no':41,'marks':87},
+    {'name':'aju','roll_no':49,'marks':98},
+    {'name':'paresh','roll_no':51,'marks':89}
+]
+print(std[0])
+print(std[1])
+print(std[2])
+print(std[3])
